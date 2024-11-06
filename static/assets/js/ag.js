@@ -46,7 +46,6 @@ function retroBowl() {
   var randomAlphanumericString = getRandomAlphanumericString(15);
 
   var url = '/temp?draft=' + randomAlphanumericString;
-  var title = 'Google Docs';
 
   history.pushState({}, title, url);
 }
