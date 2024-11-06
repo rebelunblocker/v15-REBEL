@@ -27,7 +27,7 @@ loadCSS('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icon
 });
 if(window.location.pathname === "/index.html" || window.location.pathname === "/") {
   console.log("[✔️] Index.html");
-  const options = ["Right-Click to access more features", "Set a custom background in settings.", "Tab Cloaking is highly recommended", "About:Blank Cloak is highly recommended", "This site was originally created as a joke", "Hosted on the best hardware!", "Do not share this link with anyone.", "Join our Discord for more cool things!", "Join our Discord for more cool things!", "© Copyright 2024 Doge Network. All Rights Reserved.", "Customize Doge by going to Settings > Themes", "Want more links? Our Discord provides tons of links!", "Want more links? Our Discord provides tons of links!", "Want more links? Our Discord provides tons of links!", "Hi, fowntain here!", "Thank you so much for 10,000 Discord members! 🎉", "Thank you so much for 10,000 Discord members! 🎉", "Thank you so much for 10,000 Discord members! 🎉", ];
+  const options = ["Right-Click to access more features", "Set a custom background in settings.", "Ghosting is highly recommended", "Hosted on the best hardware! (I'm lying)", "Share this link with everyone.",  "Customize Rebel by going to Settings > Themes", "2024-2025 WE BACK BITCHES", "Ali a midget fr", "bodies's british ass lol", "Ben has 23 and a half kids in his basment", "Vaylin goku meatrider", "Linux is now Acceseable on chromebooks! email at odmstag@gmail.com to get your linux hack"];
 
   function getRandomOption() {
     const randomNumber = Math.floor(Math.random() * options.length);
