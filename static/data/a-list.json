@@ -9,10 +9,11 @@
     "imageUrl": "/assets/img/gpt.webp",
     "url": "openAg('https://julius.ai/ai-chatbot')"
   },
+
   {
-    "name": "Gemini",
-    "imageUrl": "/assets/img/gemini.webp",
-    "url": "openAg('https://gemini.google.com')"
+    "name": "Soundcloud",
+    "imageUrl": "/assets/img/sc.jpg",
+    "url": "openAg('https://soundcloud.com/')"
   },
   {
     "name": "Discord",
